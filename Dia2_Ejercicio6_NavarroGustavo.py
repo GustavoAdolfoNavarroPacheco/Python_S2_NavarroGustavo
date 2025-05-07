@@ -8,3 +8,5 @@ if numero % 2 == 0:
     print("El numero ",numero,"Es PAR")
 else:
     print("El numero ",numero,"Es Impar")
+
+#Desarrollado por Gustavo Adolfo Navarro Pacheco T.I 1.127.599.969

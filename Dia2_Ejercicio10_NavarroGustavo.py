@@ -10,3 +10,5 @@ area = math.pi * radio ** 2
 
 # Imprimir el area del circulo
 print("El area del circulo es de:",area)
+
+#Desarrollado por Gustavo Adolfo Navarro Pacheco T.I 1.127.599.969

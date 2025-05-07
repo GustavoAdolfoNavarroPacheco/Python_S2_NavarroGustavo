@@ -16,3 +16,5 @@ else:
         max = max + 1
 # Se imprime el factorial del numero
 print("El factorial de ",numero," es ",factorial)
+
+#Desarrollado por Gustavo Adolfo Navarro Pacheco T.I 1.127.599.969

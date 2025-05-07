@@ -13,9 +13,11 @@ else:
     while divisor < numero:
         if numero % divisor == 0:
             primo = False
-        divisor = divisor + 1
+            divisor = divisor + 1
 # Se imprime el resultado de la verificacion
     if primo:
         print(numero, "Si es primo")
     else:
         print(numero, "No es primo")
+
+#Desarrollado por Gustavo Adolfo Navarro Pacheco T.I 1.127.599.969

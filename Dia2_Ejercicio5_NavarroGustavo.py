@@ -9,3 +9,4 @@ fahrenheit = (celsius * 9/5) + 32
 # imprimir el resultado
 print(celsius,"°C es igual a ",fahrenheit,"°F")
 
+#Desarrollado por Gustavo Adolfo Navarro Pacheco T.I 1.127.599.969

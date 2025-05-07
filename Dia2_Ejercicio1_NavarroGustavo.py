@@ -8,3 +8,5 @@ numero2 = float(input("Ingrese el segundo numero"))
 total = numero1+numero2
 # Se imprime el resultado de la suma
 print("El total de la suma es de:",total)
+
+#Desarrollado por Gustavo Adolfo Navarro Pacheco T.I 1.127.599.969
